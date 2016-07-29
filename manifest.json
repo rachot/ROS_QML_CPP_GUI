@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.username.testqt5-create",
+    "description": "description of testqt5-create",
+    "framework": "ubuntu-sdk-14.04-qml",
+    "architecture": "all",
+    "title": "testqt5-create",
+    "hooks": {
+        "testqt5-create": {
+            "apparmor": "testqt5-create.json",
+            "desktop": "testqt5_create.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": ""
+}
